@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ae_au.jpg" group-title="CANAIS FILMES/SERIES",A&E HD
-http://login.companyiptv.com.br:8080/bbyeaou1/t1qux16j/46294
+https://cdn.esporteone.com/AMCHD/video.m3u8?md5=c6FU1bpjGAMkELmORb0rgA&expires=1618375833
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us.jpg" group-title="CANAIS FILMES/SERIES",AMC HD
 http://login.companyiptv.com.br:8080/bbyeaou1/t1qux16j/46296
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_au.jpg" group-title="CANAIS DOCUMENTARIOS",ANIMAL PLANET HD
